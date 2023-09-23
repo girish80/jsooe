@@ -1,2 +1,2 @@
 # js oop
-I put js oep project
+I put js oop project
