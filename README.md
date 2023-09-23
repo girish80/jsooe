@@ -1,2 +1,2 @@
-# jsooe
-I put js oee project
+# js oop
+I put js oep project
